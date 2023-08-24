@@ -1,5 +1,3 @@
-Chapter 3: Identifying Key Performance Indicators (KPIs)
-========================================================
 
 In this chapter, we will discuss the importance of identifying key performance indicators (KPIs) in using data-driven insights. We will explore strategies for identifying KPIs effectively and discuss the use of SMART goal setting and metrics tracking.
 

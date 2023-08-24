@@ -1,5 +1,3 @@
-Analyzing Feedback and Performance Data and KPIs
-==========================================================================================
 
 Measuring success is an essential part of using data-driven insights to optimize performance and achieve results. In this chapter, we will discuss how to analyze feedback and performance data and key performance indicators (KPIs) to measure data-driven success.
 

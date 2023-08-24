@@ -1,5 +1,3 @@
-Using Project Management and Change Management Techniques
-========================================================================================================
 
 In this chapter, we will discuss how to implement data-driven solutions using project management and change management techniques. We will explore how utilizing these techniques can ensure successful implementation of data-driven solutions.
 

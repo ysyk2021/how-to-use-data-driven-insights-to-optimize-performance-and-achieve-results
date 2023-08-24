@@ -1,5 +1,3 @@
-Using SMART Goal Setting and Metrics Tracking
-=======================================================================================================
 
 In this chapter, we will discuss the importance of identifying key performance indicators (KPIs) and how to use SMART goal setting and metrics tracking to identify relevant KPIs.
 

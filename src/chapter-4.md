@@ -1,5 +1,3 @@
-Chapter 4: Collecting and Analyzing Performance Data
-====================================================
 
 In this chapter, we will discuss the role of collecting and analyzing performance data in using data-driven insights. We will explore strategies for collecting and analyzing performance data effectively and discuss the use of data collection tools and statistical analysis techniques.
 
