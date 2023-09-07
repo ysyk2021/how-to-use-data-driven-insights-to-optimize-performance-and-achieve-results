@@ -32,3 +32,4 @@
   - [Demonstrating leadership and problem-solving skills](chapter-8-2.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
+- [Our Other Books](other-books.md)
