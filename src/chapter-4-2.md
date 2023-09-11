@@ -1,5 +1,4 @@
-Chapter 4: Strategies for Collecting and Analyzing Performance Data
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into effective strategies for collecting and analyzing performance data, a critical step in leveraging data-driven insights to optimize performance and achieve tangible results.
 

@@ -1,5 +1,4 @@
-Chapter 2: The Importance of Identifying Key Performance Indicators (KPIs)
-==========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the crucial role that identifying Key Performance Indicators (KPIs) plays in the process of using data-driven insights to optimize performance and achieve desired results.
 

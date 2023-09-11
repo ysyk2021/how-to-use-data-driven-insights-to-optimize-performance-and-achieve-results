@@ -1,5 +1,4 @@
-Chapter 4: Strategies for Identifying Key Performance Indicators (KPIs)
-=======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into essential strategies for identifying Key Performance Indicators (KPIs) that are instrumental in driving performance optimization and achieving desired results.
 

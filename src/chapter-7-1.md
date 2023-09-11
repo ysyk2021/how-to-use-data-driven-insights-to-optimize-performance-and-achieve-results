@@ -1,5 +1,4 @@
-Chapter 9: Methods for Measuring Data-Driven Success
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore various methods and key performance indicators (KPIs) for measuring the success of data-driven initiatives. Effective measurement is essential for understanding the impact of data-driven strategies and ensuring they align with organizational goals.
 
